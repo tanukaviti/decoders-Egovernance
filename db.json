@@ -1,0 +1,25 @@
+{
+  "student": [],
+  "entrepreneur": [
+    {
+      "FirstName": "KAVITI",
+      "LastName": "TANUJA",
+      "email": "tanukaviti2003@gmail.com",
+      "MobileNumber": "+918374249056",
+      "AadharNumber": "581909493772",
+      "Domain": "Information Technology",
+      "id": 1
+    }
+  ],
+  "investor": [
+    {
+      "FirstName": "KAVITI",
+      "LastName": "TANUJA",
+      "email": "tanukaviti2003@gmail.com",
+      "MobileNumber": "+918374249056",
+      "AadharNumber": "581909493772",
+      "OrganizationName": "vnr",
+      "id": 1
+    }
+  ]
+}
